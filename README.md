@@ -81,6 +81,4 @@ Everything runs locally inside the browser.
 
 This project is intentionally designed as a single-file application.
 
-```text
-neurocv-ai-offline-resume-analyzer/
-└── index.html
+Link : https://arideepcodes.github.io/neurocv-ai-offline-resume-analyzer/
